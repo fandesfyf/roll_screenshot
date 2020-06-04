@@ -1,5 +1,6 @@
 # roll_screenshot
-用python实现的滚动截屏
+用python实现的滚动截屏功能
+如果你还需要普通区域截屏类似qq截屏的功能,可以看看(https://github.com/fandesfyf/Jamscreenshot)
 
 ## 具体思路
 滚动截屏的步骤：滚动-->截屏-->寻找拼接点-->拼接
