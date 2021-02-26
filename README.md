@@ -1,5 +1,5 @@
 # roll_screenshot
-用python实现的滚动截屏功能
+用python实现的滚动截屏功能,本功能集成自[Jamtools](https://github.com/fandesfyf/JamTools)和[Jamscreenshot](https://github.com/fandesfyf/Jamscreenshot)项目
 如果你还需要普通区域截屏类似qq截屏的功能,可以看看(https://github.com/fandesfyf/Jamscreenshot)
 
 ## 具体思路
